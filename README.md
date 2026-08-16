@@ -177,24 +177,6 @@ I'm continuously adding new projects as I learn and experiment with new technolo
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IAMSANDEEPRANJAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAMSANDEEPRANJAN&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=IAMSANDEEPRANJAN&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🤝 Let's Connect
 
 <p>
