@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Sandeep Ranjan
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Sandeep%20Ranjan&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Data%20Analytics%20%7C%20AI%20%7C%20Automation&descAlignY=58&descSize=18" width="100%"/>
+
+</div>
 
 ### Data Analytics | AI & Automation | Enterprise Technology
 
